@@ -11,8 +11,8 @@ As google is life, I'm not going to give you explicit instructions, but I am giv
 *Git, github, source control, repositories, fork, branch, commit, push*
 
 ### Steps
-1. Install git 
-2. Create an account on github
+1. Install [git](https://git-scm.com/) 
+2. Create an account on [github](https://github.com/)
 3. Fork this repository
 4. Download your fork
 5. Create a branch called 'tutorial-1' off main
@@ -22,4 +22,4 @@ As google is life, I'm not going to give you explicit instructions, but I am giv
 1. You need to send me the URL of your forked repo.
 
 ### Help!
- - Git is a command-line tool, however there a few GUI implementations that exist. To keep things from getting out of scope, you can just download Github Desktop for Windows to do the majority of the steps.
+ - Git is a command-line tool, however there a few GUI implementations that exist. To keep things from getting out of scope, you can just download [Github Desktop for Windows](https://desktop.github.com/) to do the majority of the steps.
