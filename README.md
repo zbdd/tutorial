@@ -5,7 +5,7 @@ The basic idea will be to iteratively complete each part, building towards a lar
 ## Step 1 - Source control
 Git is an incredibly useful piece of open-source software that enables you to implement version control for your project. There are online services like Github that offer free accounts where you can create repositories, commit and push code to them and share changes for peer review. As such, I recommend giving git and github a bit of a read when you can.
 
-As google is life, I'm not going to give you explicit instructions, but I am giving you the logical steps you'd need to take in order.
+As google is life, I'm not going to give you explicit instructions, but I am giving you the logical steps you'd need to take to get things done.
 
 ### Keywords
 *Git, github, source control, repositories, fork, branch, commit, push*
