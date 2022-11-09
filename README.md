@@ -1,5 +1,5 @@
 # Learn to code - Tutorial 1
-A basic introduction to programming and the common tools you need to make your coding life a bit easier.
+A introduction to programming and the common tools you need to make your coding life a bit easier.
 The basic idea will be to iteratively complete each part building towards a larger, more fully functional piece of software. This approach will reinforce clean coding principles as you move from coding solutions to software design.
 
 ## Step 1 - Source control
