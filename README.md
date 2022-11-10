@@ -19,7 +19,10 @@ As google is life, I'm not going to give you explicit instructions, but I am giv
 6. Push your branch to Github
 
 ### Done criteria
-1. You need to send me the URL of your forked repo.
+* You need to send me the URL of your forked repo.
 
 ### Help!
- - Git is a command-line tool, however there a few GUI implementations that exist. To keep things from getting out of scope, you can just download [Github Desktop for Windows](https://desktop.github.com/) to do the majority of the steps.
+ Git is a command-line tool, however there a few GUI implementations that exist. To keep things from getting out of scope, you can just download [Github Desktop for Windows](https://desktop.github.com/) to do the majority of the steps.
+
+ ## Next tutorial
+ For the next tutorial, you need to change the current branch you are on [main] to [tutorial-2].
