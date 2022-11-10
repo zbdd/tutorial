@@ -1,25 +1,37 @@
-# Learn to code - Tutorial 1
-A introduction to programming and the common tools you need to make your coding life a bit easier.
-The basic idea will be to iteratively complete each part, building towards a larger more fully functional piece of software. This approach will reinforce clean coding principles as you move from coding solutions to software design.
+# Learn to code - Tutorial 2
+Excellent. Now we have source control in-place we can move onto the next important step. Setting up an IDE (Integrated Development Environment). There are many-many-many IDE's out there, from fully featured like [Intellij IDEA](https://www.jetbrains.com/idea/) to notepad and your CLI (command-line interface).
+Given it's early days, we'll stick with free products - and you can't go past Microsoft's [VS Code](https://code.visualstudio.com/). It's so good, I'm waiting for Jetbrains and the rest to start their anti-competition lawsuit.
 
-## Step 1 - Source control
-Git is an incredibly useful piece of open-source software that enables you to implement version control for your project. There are online services like Github that offer free accounts where you can create repositories, commit and push code to them and share changes for peer review. As such, I recommend giving git and github a bit of a read when you can.
+We might as well introduce [NodeJS](https://nodejs.org/en/) while we are at it. Node is a open-source platform written in [Javascript](https://en.wikipedia.org/wiki/JavaScript). We could go down and explain each term I bring up, but I'll leave it to you to do some home-study if you want. For now, just consider Javascript as one of many available programming lanugages out there, its main features being - [interpretted not compiled](https://web.stanford.edu/class/cs98si/slides/overview.html), no [type safety](https://en.wikipedia.org/wiki/Type_safety), and is the most common language found for client-side webpage programming and can even manage server-side behaviour too!
 
-As google is life, I'm not going to give you explicit instructions, but I am giving you the logical steps you'd need to take to get things done.
+NodeJS provides us a great [asynchronous, event-driven javascript runtime](https://nodejs.org/en/about/), and we will be using it implement our project.
 
-### Keywords
-*Git, github, source control, repositories, fork, branch, commit, push*
+*Note: There are 2 steps for this tutorial, these cover both the IDE and Javascript components respectively*
 
-### Steps
-1. Install [git](https://git-scm.com/) 
-2. Create an account on [github](https://github.com/)
-3. Fork this repository
-4. Download your fork
-5. Create a branch called 'tutorial-1' off main
-6. Push your branch to Github
+### Step 1 - IDE
+* Install an your IDE of choice
+
+### Done criteria 
+* Open this project in your IDE
+
+### Help! 
+ I recommend VS Code for ease-of-use, although I personally use IntelliJ IDEA. Don't forget, all this coding can be done from text-based editors like [sublime-text](https://www.sublimetext.com/), notepad, textpad, or if you are familiar with your CLI - [Vim](https://www.vim.org/)
+
+========
+
+### Step 2 - Install NodeJS
+* Install [nodejs](https://nodejs.org/en/download/)
+* Install the [Node package manager](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ### Done criteria
-1. You need to send me the URL of your forked repo.
+* Check node is installed by first navigating to your project directory using your CLI of choice (Powertools, CMD, terminal, iterm...)
+* Type `node` and you should see something like this
+```
+% node
+Welcome to Node.js v18.0.0.
+Type ".help" for more information.
+>
+```
 
 ### Help!
- - Git is a command-line tool, however there a few GUI implementations that exist. To keep things from getting out of scope, you can just download [Github Desktop for Windows](https://desktop.github.com/) to do the majority of the steps.
+ I've provided links in some of the steps that'll take you to a 'getting started' page or 'download' page for that step. Rather than copying or going-over the same material, these pages explain how to setup each tool quite well. 
