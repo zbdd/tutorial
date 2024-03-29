@@ -9,8 +9,7 @@ Git is an incredibly useful piece of open-source software that enables you to im
 *Git, github, source control, repositories, fork, branch, commit, push*
 
 ### Steps
-1. Install [git](https://git-scm.com/) 
-  - You can also use a git GUI like [git desktop](https://desktop.github.com/)
+1. Install [git](https://git-scm.com/)  or you can also use a git GUI like [git desktop](https://desktop.github.com/)
 2. Create an account on [github](https://github.com/)
 3. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository
 4. [Clone](https://github.com/git-guides/git-clone) your fork
