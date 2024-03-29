@@ -21,8 +21,15 @@ As google is life, I'm not going to give you explicit instructions, but I am giv
 ### Done criteria
 * You need to send me the URL of your forked repo.
 
-### Help!
- Git is a command-line tool, however there a few GUI implementations that exist. To keep things from getting out of scope, you can just download [Github Desktop for Windows](https://desktop.github.com/) to do the majority of the steps.
+### What is git?
+
+**git** is a command-line version control system. It consists of **commits** that chain together to form the history of your code.
+What is unique about **git** is it's implementation of **branches** which are copies of your code (including **commit** history) from where you branched off from.
+You can work on these **branches** independently of one another, and then **merge** them back into a **main** branch when ready.
+
+![image](https://github.com/zbdd/tutorial/assets/3454727/c1565d8a-4395-4290-b477-6ced6f1e72c6)
+_a simple project with two commits_
+
 
  ## Next tutorial
  For the next tutorial, you need to change the current branch you are on [main] to [tutorial-2].
