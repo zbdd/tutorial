@@ -5,18 +5,17 @@ The basic idea will be to iteratively complete each part, building towards a lar
 ## Step 1 - Source control
 Git is an incredibly useful piece of open-source software that enables you to implement version control for your project. There are online services like Github that offer free accounts where you can create repositories, commit and push code to them and share changes for peer review. As such, I recommend giving git and github a bit of a read when you can.
 
-As google is life, I'm not going to give you explicit instructions, but I am giving you the logical steps you'd need to take to get things done.
-
 ### Keywords
 *Git, github, source control, repositories, fork, branch, commit, push*
 
 ### Steps
 1. Install [git](https://git-scm.com/) 
+  - You can also use a git GUI like [git desktop](https://desktop.github.com/)
 2. Create an account on [github](https://github.com/)
-3. Fork this repository
-4. Download your fork
-5. Create a branch called 'tutorial-1' off main
-6. Push your branch to Github
+3. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository
+4. [Clone](https://github.com/git-guides/git-clone) your fork
+5. Create a [branch](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) called 'tutorial-1' off main
+6. [Push](https://github.com/git-guides/git-push) your branch to Github
 
 ### Acceptance criteria
 * You need to send me the URL of your forked repo.
