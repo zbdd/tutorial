@@ -18,7 +18,7 @@ As google is life, I'm not going to give you explicit instructions, but I am giv
 5. Create a branch called 'tutorial-1' off main
 6. Push your branch to Github
 
-### Done criteria
+### Acceptance criteria
 * You need to send me the URL of your forked repo.
 
 ### What is git?
@@ -45,5 +45,5 @@ _meanwhile, a bug was found and developer 1 creates a new hotfix branch and has 
 _the fix is good, and the commit FIX is merged into main and becomes the new HEAD, seperately, developer 2 creates another commit to their branch_
 
 ![image](https://github.com/zbdd/tutorial/assets/3454727/35712455-da3d-46f7-afdc-a93c151b70c2)
-_developer 2 is ready to merge their branch into main, git does a three way merge between the commits FIX, DEV1B and their common ancestor DMG3_
+_developer 2 is ready to merge their branch into main, git does a three way merge between the commits FIX, DEV1B and their common ancestor DMG3 to create the new merge commit DMG4_
 
